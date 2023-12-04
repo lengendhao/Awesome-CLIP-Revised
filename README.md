@@ -1,4 +1,4 @@
-# Awesome-CLIP-Updated
+# Awesome-CLIP-Revised
 Awesome updated list for research on CLIP (Contrastive Language-Image Pre-Training). 
 
 The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been updated for a long time, so I make this repo and revise the list.
