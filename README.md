@@ -161,8 +161,7 @@ The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been update
 - Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval, 2023 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Dual_Learning_with_Dynamic_Knowledge_Distillation_for_Partially_Relevant_Video_ICCV_2023_paper.pdf)
 
 
-
-### Others
+## Others
 - CLIP-Event: Connecting Text and Images with Event Structures, 2022.01 [[paper]](https://arxiv.org/abs/2201.05078) [[code]](https://github.com/limanling/clip-event)
 - How Much Can CLIP Benefit Vision-and-Language Tasks?, 2022 [[paper]](https://openreview.net/forum?id=zf_Ll3HZWgy) [[code]](https://github.com/clip-vil/CLIP-ViL)
 - Task Residual for Tuning Vision-Language Models, 2022.11 [[paper]](https://arxiv.org/pdf/2211.10277.pdf) [[code]](https://github.com/geekyutao/TaskRes)
