@@ -30,7 +30,6 @@ The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been update
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code]](https://github.com/roboflow-ai/zero-shot-object-tracking)
 - Crop-CLIP [[code]](https://github.com/vijishmadhavan/Crop-CLIP)
-- Zero-Shot Detection via Vision and Language Knowledge Distillation, 2021.04 [[paper]](https://arxiv.org/pdf/2104.13921.pdf) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 - Detic: Detecting Twenty-thousand Classes using Image-level Supervision, 2022.01 [[paper]](https://arxiv.org/pdf/2201.02605.pdf) [[code]](https://github.com/facebookresearch/Detic)
 - ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension, 2022.04 [[paper]](https://arxiv.org/pdf/2204.05991.pdf) [[code]](https://github.com/allenai/reclip)  
 
@@ -147,7 +146,22 @@ The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been update
 
 ### GamePhysics
 - CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning, 2022.03 [[paper]](https://arxiv.org/pdf/2203.11096.pdf) [[code]](https://asgaardlab.github.io/CLIPxGamePhysics/)
-  
+
+## Distillation
+### Object Detection
+- Zero-Shot Detection via Vision and Language Knowledge Distillation, 2021.04 [[paper]](https://arxiv.org/pdf/2104.13921.pdf) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
+
+### Text-Video Retrieval
+- TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval, 2021.04 [[paper]](https://arxiv.org/pdf/2104.08271.pdf) [[code]](https://github.com/albanie/collaborative-experts)
+- Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers, 2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Miech_Thinking_Fast_and_Slow_Efficient_Text-to-Visual_Retrieval_With_Transformers_CVPR_2021_paper.pdf)
+- C2KD: Cross-Lingual Cross-Modal Knowledge Distillation for Multilingual Text-Video Retrieval, 2022.10 [[paper]](https://arxiv.org/pdf/2210.03625.pdf) [[code]](https://github.com/roudimit/c2kd)
+- From Within to Between: Knowledge Distillation for Cross Modality Retrieval, 2022 [[paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Tran_From_Within_to_Between_Knowledge_Distillation_for_Cross_Modality_Retrieval_ACCV_2022_paper.pdf) [[code]](https://github.com/tqvinhcs/CrossKD)
+- Learning Linguistic Association Towards Efficient Text-Video Retrieval, 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_15) [[code]](https://github.com/silenceFS/LINAS)
+- CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval, 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf)
+- Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval, 2023 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Dual_Learning_with_Dynamic_Knowledge_Distillation_for_Partially_Relevant_Video_ICCV_2023_paper.pdf)
+
+
+
 ### Others
 - CLIP-Event: Connecting Text and Images with Event Structures, 2022.01 [[paper]](https://arxiv.org/abs/2201.05078) [[code]](https://github.com/limanling/clip-event)
 - How Much Can CLIP Benefit Vision-and-Language Tasks?, 2022 [[paper]](https://openreview.net/forum?id=zf_Ll3HZWgy) [[code]](https://github.com/clip-vil/CLIP-ViL)
