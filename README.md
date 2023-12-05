@@ -66,6 +66,8 @@ The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been update
 - Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese, 2022.11 [[paper]](https://arxiv.org/pdf/2211.01335.pdf) [[code]](https://github.com/OFA-Sys/Chinese-CLIP)
 - Fine-tuned CLIP Models are Efficient Video Learners, 2022.12 [[paper]](https://arxiv.org/pdf/2212.03640.pdf) [[code]](https://github.com/muzairkhattak/ViFi-CLIP)
 - Scaling Language-Image Pre-training via Masking, 2022.12 [[paper]](https://arxiv.org/pdf/2212.00794.pdf) [[code]](https://github.com/facebookresearch/flip)
+- Attentive Mask CLIP, 2022.12 [[paper]](https://arxiv.org/pdf/2212.08653.pdf) [[code]](https://github.com/microsoft/A-CLIP)
+- LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Languag Models, 2023.12 [[paper]](https://arxiv.org/pdf/2312.00674.pdf)
 
 
 ### Text-to-3D Generation
