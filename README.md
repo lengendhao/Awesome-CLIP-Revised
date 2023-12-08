@@ -87,6 +87,7 @@ The [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) hasn't been update
 - Conditional Prompt Learning for Vision-Language Models, 2022.03 [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - Learning to Compose Soft Prompts for Compositional Zero-Shot Learning, 2022.04 [[paper]](https://arxiv.org/pdf/2204.03574.pdf) [[code]](https://github.com/BatsResearch/csp)
 - Prompt-aligned Gradient for Prompt Tuning, 2022.05 [[paper]](https://arxiv.org/pdf/2205.14865.pdf) [[code]](https://github.com/BeierZhu/Prompt-align)
+- What does CLIP know about a red circle? Visual prompt engineering for VLMs, 2023.04 [[paper]](https://arxiv.org/pdf/2304.06712.pdf)
 - PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization, 2023.07 [[paper]](https://arxiv.org/pdf/2307.15199.pdf) [[web](https://promptstyler.github.io/)]
 
 ### Video Understanding
